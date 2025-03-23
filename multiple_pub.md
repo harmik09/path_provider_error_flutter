@@ -1,9 +1,9 @@
-### 1  Clean cache
+### 1  repair cache
 ```
 flutter pub cache repair
 ```
 
-### 2  Flutter clean
+### 2  clean clean
 ```
 flutter clean cache
 ```
